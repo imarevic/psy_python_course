@@ -5,6 +5,8 @@ This will be the main page of the course.
 ---
 ## Course Outline
 
+### [Preface: About this Course]
+
 ### [1. Introduction: Python and Pygame]
 - [Introducing Python and Pygame]
 - [Installation of Python and Pygame]
