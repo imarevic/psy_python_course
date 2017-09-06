@@ -9,7 +9,7 @@ This will be the main page of the course.
 
 ### 1. Introduction: Python and Pygame
 - [Introducing Python and Pygame]
-- [Installation of Python and Pygame]
+- [Installation of Python and Pygame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Installation.ipynb)
 - [Running Python Programs]
 
 ### 2. Python Basics
