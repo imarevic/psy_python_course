@@ -21,7 +21,7 @@ Feedback and recommendations for improvement are always welcome.
 ### 1. Introduction: Python and Pygame
 - [Introducing Python and Pygame]
 - [Installation of Python and Pygame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Installation.ipynb)
-- [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Running_Python.ipynb)
+- [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/RunningPython.ipynb)
 
 ### 2. Python Basics
 - [Variables, Operators, and Comments]
@@ -64,7 +64,7 @@ Feedback and recommendations for improvement are always welcome.
 - [The Experiment and Main Class]
 
 ---
-## Lab exercises
+## Lab Exercises
 
 The links to the lab exercises and solutions are in the following table.
 Each Lab Exercise corresponds to the contents of one chapter.
