@@ -1,7 +1,17 @@
 # Programming Psychology Experiments in Python
 
-This will be the main page of the course.
+Welcome to the course "Programming Psychology Experiments in Python". This course gives an integrative overview
+of programming psychology experiments using the programming language Python and the graphics library PyGame.
+The course is structured as follows:
 
+The first part introduces basic programming concepts of Python in the context of computerized psychology experiments.
+The second part introduces the basics of PyGame and its use for programming experiments.
+The last part introduces object oriented programming techniques.
+
+Each chapter is accompanied by lab exercises (table at the bottom of this page).
+These exercises allow students to practice the concepts described in each chapter in more depth.
+
+Feedback and recommendations for improvement are always welcome.
 ---
 ## Course Outline
 
@@ -10,10 +20,10 @@ This will be the main page of the course.
 ### 1. Introduction: Python and Pygame
 - [Introducing Python and Pygame]
 - [Installation of Python and Pygame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Installation.ipynb)
-- [Running Python Programs]
+- [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Running Python.ipynb)
 
 ### 2. Python Basics
-- [Variables and Operators]
+- [Variables, Operators, and Comments]
 - [Standard Data Types]
 - [User Input]
 - [Reading from a File]
@@ -51,5 +61,24 @@ This will be the main page of the course.
 - [Modules and Classes]
 - [Creating an Experiment Settings Class]
 - [The Experiment and Main Class]
+
+---
+## Lab exercises
+
+The links to the lab exercises and solutions are in the following table.
+Each Lab Exercise corresponds to the contents of one chapter.
+
+| Lab Exercise | Solution       |
+|:------------:|:--------------:|
+| Lab 1        | Lab 1 Solution |
+| Lab 2        | Lab 2 Solution |
+| Lab 3        | Lab 3 Solution |
+| Lab 4        | Lab 4 Solution |
+| Lab 5        | Lab 5 Solution |
+| Lab 6        | Lab 6 Solution |
+| Lab 7        | Lab 7 Solution |
+| Lab 8        | Lab 8 Solution |
+| Lab 9        | Lab 9 Solution |
+| Lab 10        | Lab 10 Solution |
 
 ---
