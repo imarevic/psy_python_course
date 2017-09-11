@@ -12,6 +12,7 @@ Each chapter is accompanied by lab exercises (table at the bottom of this page).
 These exercises allow students to practice the concepts described in each chapter in more depth.
 
 Feedback and recommendations for improvement are always welcome.
+
 ---
 ## Course Outline
 
@@ -20,7 +21,7 @@ Feedback and recommendations for improvement are always welcome.
 ### 1. Introduction: Python and Pygame
 - [Introducing Python and Pygame]
 - [Installation of Python and Pygame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Installation.ipynb)
-- [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Running Python.ipynb)
+- [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Running_Python.ipynb)
 
 ### 2. Python Basics
 - [Variables, Operators, and Comments]
