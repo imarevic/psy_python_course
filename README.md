@@ -24,7 +24,7 @@ Feedback and recommendations for improvement are always welcome.
 - [Running Python Programs](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/RunningPython.ipynb)
 
 ### 2. Python Basics
-- [Variables, Operators, and Comments]
+- [Variables, Operators, and Comments](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/VarOperatorsComments.ipynb)
 - [Standard Data Types]
 - [User Input]
 - [Reading from a File]
@@ -47,7 +47,6 @@ Feedback and recommendations for improvement are always welcome.
 
 ### 7. Collecting Responses
 - [Recording Keyboard Responses]
-- [User Text-input]
 - [Saving Responses to a File]
 
 ### 8. Presenting Instructions
