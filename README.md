@@ -66,7 +66,7 @@ Feedback and recommendations for improvement are always welcome.
 ## Lab Exercises
 
 The links to the lab exercises and solutions are in the following table.
-Each Lab Exercise corresponds to the contents of one chapter.
+Each lab exercise corresponds to the contents of one chapter.
 
 | Lab Exercise | Solution       |
 |:------------:|:--------------:|
