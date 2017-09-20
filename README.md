@@ -25,9 +25,9 @@ Feedback and recommendations for improvement are always welcome.
 
 ### 2. Python Basics
 - [Variables, Operators, and Comments](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/VarOperatorsComments.ipynb)
-- [Standard Data Types]
-- [User Input]
-- [Reading from a File]
+- [Standard Data Types](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/StandardDataTypes.ipynb)
+- [User Input](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/UserInput.ipynb)
+- [Reading from a File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/ReadingFiles.ipynb)
 
 ### 3. Python Dynamics
 - [If-Then Branching]
@@ -71,7 +71,7 @@ Each lab exercise corresponds to the contents of one chapter.
 | Lab Exercise | Solution       |
 |:------------:|:--------------:|
 | [Lab 1](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab1/Lab1.ipynb)        | Lab 1 Solution |
-| Lab 2        | Lab 2 Solution |
+| [Lab 2](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab2/Lab2.ipynb)        | Lab 2 Solution |
 | Lab 3        | Lab 3 Solution |
 | Lab 4        | Lab 4 Solution |
 | Lab 5        | Lab 5 Solution |
