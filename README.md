@@ -47,7 +47,7 @@ Feedback and recommendations for improvement are always welcome.
 
 ### 7. Collecting Responses
 - [Recording Keyboard Responses]
-- [Saving Responses to a File]
+- [Saving Responses to a Data File]
 
 ### 8. Presenting Instructions
 - [Loading Instructions]
