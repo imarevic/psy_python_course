@@ -27,7 +27,7 @@ Feedback and recommendations for improvement are always welcome.
 - [Variables, Operators, and Comments](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/VarOperatorsComments.ipynb)
 - [Standard Data Types](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/StandardDataTypes.ipynb)
 - [User Input](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/UserInput.ipynb)
-- [Reading from a File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/ReadingWritingFiles.ipynb)
+- [Reading and Writing a File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/ReadingWritingFiles.ipynb)
 
 ### 3. Python Dynamics
 - [If-Then Branching]
