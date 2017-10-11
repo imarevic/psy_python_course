@@ -30,7 +30,7 @@ Feedback and recommendations for improvement are always welcome.
 - [Reading and Writing a File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter2/ReadingWritingFiles.ipynb)
 
 ### 3. Python Dynamics
-- [If-Then Branching]
+- [If-Then Branching](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter3/IfThenBranching.ipynb)
 - [For- and While-Loops]
 
 ### 4. Python Functions
@@ -72,7 +72,7 @@ Each lab exercise corresponds to the contents of one chapter.
 |:------------:|:--------------:|
 | [Lab 1](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab1/Lab1.ipynb)        | Lab 1 Solution |
 | [Lab 2](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab2/Lab2.ipynb)        | Lab 2 Solution |
-| Lab 3        | Lab 3 Solution |
+| [Lab 3](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab3/Lab3.ipynb)        | Lab 3 Solution |
 | Lab 4        | Lab 4 Solution |
 | Lab 5        | Lab 5 Solution |
 | Lab 6        | Lab 6 Solution |
