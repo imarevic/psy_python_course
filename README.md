@@ -31,7 +31,7 @@ Feedback and recommendations for improvement are always welcome.
 
 ### 3. Python Dynamics
 - [If-Then Branching](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter3/IfThenBranching.ipynb)
-- [For- and While-Loops]
+- [For- and While-Loops](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter3/Loops.ipynb)
 
 ### 4. Python Functions
 - [Functions Basics]
