@@ -16,8 +16,6 @@ Feedback and recommendations for improvement are always welcome.
 ---
 ## Course Outline
 
-### [Preface: About this Course]
-
 ### 1. Introduction: Python and Pygame
 - [Introducing Python and Pygame]
 - [Installation of Python and Pygame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter1/Installation.ipynb)
