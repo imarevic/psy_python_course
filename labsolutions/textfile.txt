@@ -1,0 +1,2 @@
+This is a string that should be written to a file. 
+We wish you good luck with writing this to disk ;)
