@@ -36,7 +36,7 @@ Feedback and recommendations for improvement are always welcome.
 - [Structuring a Program with Functions]
 
 ### 5. A Mini Experiment
-- [Console Experiment]
+- [Console Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter5/MiniExperiment.ipynb)
 
 ### 6. Graphics Basics with Pygame
 - [Introducing Pygame]
@@ -72,7 +72,7 @@ Each lab exercise corresponds to the contents of one chapter.
 | [Lab 2](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab2/Lab2.ipynb)        | [Lab 2 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab2Solution.ipynb) |
 | [Lab 3](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab3/Lab3.ipynb)        | Lab 3 Solution |
 | Lab 4        | Lab 4 Solution |
-| Lab 5        | Lab 5 Solution |
+| [Lab 5](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab5/Lab5.ipynb)        | Lab 5 Solution |
 | Lab 6        | Lab 6 Solution |
 | Lab 7        | Lab 7 Solution |
 | Lab 8        | Lab 8 Solution |
