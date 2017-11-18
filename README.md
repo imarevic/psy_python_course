@@ -32,8 +32,8 @@ Feedback and recommendations for improvement are always welcome.
 - [For- and While-Loops](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter3/Loops.ipynb)
 
 ### 4. Python Functions
-- [Functions Basics]
-- [Structuring a Program with Functions]
+- [Functions Basics](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter4/FunctionsBasics.ipynb)
+- [Structuring a Program with Functions](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter4/FunctionStructure.ipynb)
 
 ### 5. A Mini Experiment
 - [Console Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter5/MiniExperiment.ipynb)
