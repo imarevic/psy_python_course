@@ -71,7 +71,7 @@ Each lab exercise corresponds to the contents of one chapter.
 | [Lab 1](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab1/Lab1.ipynb)        | [Lab 1 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab1Solution.ipynb) |
 | [Lab 2](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab2/Lab2.ipynb)        | [Lab 2 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab2Solution.ipynb) |
 | [Lab 3](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab3/Lab3.ipynb)        | [Lab 3 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab3Solution.ipynb)  |
-| [Lab 4](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab4/Lab4.ipynb)         | Lab 4 Solution |
+| [Lab 4](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab4/Lab4.ipynb)         | [Lab 4 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab4Solution.ipynb) |
 | [Lab 5](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab5/Lab5.ipynb)        | Lab 5 Solution |
 | Lab 6        | Lab 6 Solution |
 | Lab 7        | Lab 7 Solution |
