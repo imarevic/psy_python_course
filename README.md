@@ -38,9 +38,9 @@ Feedback and recommendations for improvement are always welcome.
 ### 5. A Mini Experiment
 - [Console Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter5/MiniExperiment.ipynb)
 
-### 6. Graphics Basics with Pygame
-- [Introducing Pygame]
-- [Presenting Text]
+### 6. Graphics Basics with PyGame
+- [Introducing PyGame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/IntroPygame.ipynb)
+- [Presenting Text](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/PresentingText.ipynb)
 - [Drawing Shapes]
 
 ### 7. Collecting Responses
@@ -72,8 +72,8 @@ Each lab exercise corresponds to the contents of one chapter.
 | [Lab 2](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab2/Lab2.ipynb)        | [Lab 2 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab2Solution.ipynb) |
 | [Lab 3](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab3/Lab3.ipynb)        | [Lab 3 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab3Solution.ipynb)  |
 | [Lab 4](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab4/Lab4.ipynb)         | [Lab 4 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab4Solution.ipynb) |
-| [Lab 5](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab5/Lab5.ipynb)        | Lab 5 Solution |
-| Lab 6        | Lab 6 Solution |
+| [Lab 5](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab5/Lab5.ipynb)        | [Lab 5 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab5Solution.ipynb) |
+| [Lab 6](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab6/Lab6.ipynb)          | Lab 6 Solution |
 | Lab 7        | Lab 7 Solution |
 | Lab 8        | Lab 8 Solution |
 | Lab 9        | Lab 9 Solution |
