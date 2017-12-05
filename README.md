@@ -41,7 +41,7 @@ Feedback and recommendations for improvement are always welcome.
 ### 6. Graphics Basics with PyGame
 - [Introducing PyGame](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/IntroPygame.ipynb)
 - [Presenting Text](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/PresentingText.ipynb)
-- [Drawing Shapes]
+- [Drawing Shapes](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/DrawingShapes.ipynb)
 
 ### 7. Collecting Responses
 - [Recording Keyboard Responses]
