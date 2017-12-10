@@ -6,7 +6,7 @@ import random
 # this ensures that they are accessible in each function
 expGlobals = {"bgColor" : (180, 180, 180), # bg is light grey
               "shapeColor" : (250, 0, 0), # shapes are red
-              "fixcrossColor" : (0, 0, 0), # color of fixation cross
+              "fixcrossColor" : (0, 0, 0), # color of fixation cross is black
               "screenSize" : (500, 500), # set screen screenSize
               "FPS" : 60, # frames per second
               "screen" : None, # placeholder for screen instance
@@ -27,7 +27,7 @@ def runExperiment():
     """runs the experiment."""
 
 
-    # initialize pygame and font
+    # initialize pygame
     initPygame(expGlobals["screenSize"], expGlobals["FPS"])
 
     # start presentation of n trials
@@ -124,7 +124,7 @@ def startPresentation(ntrials):
 
         if randNum % 2 == 0:
             # START CODE HERE # (1 line of code)
-            
+
             # END CODE HERE #
 
             # draw square (4 sec) and fixcross (1 sec)
