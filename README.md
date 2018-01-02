@@ -44,8 +44,8 @@ Feedback and recommendations for improvement are always welcome.
 - [Drawing Shapes](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter6/DrawingShapes.ipynb)
 
 ### 7. Collecting Responses
-- [Recording Keyboard Responses]
-- [Saving Responses to a Data File]
+- [Recording Responses](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter7/RecResp.ipynb)
+- [Saving Responses to a Data File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter7/SaveResp.ipynb)
 
 ### 8. Presenting Instructions
 - [Loading Instructions]
