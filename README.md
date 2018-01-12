@@ -48,8 +48,8 @@ Feedback and recommendations for improvement are always welcome.
 - [Saving Responses to a Data File](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter7/SaveResp.ipynb)
 
 ### 8. Presenting Instructions
-- [Loading Instructions]
-- [Instruction Presentation]
+- [Loading Instructions](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter8/LoadingInstructions.ipynb)
+- [Instruction Presentation](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter8/InstructionPresentation.ipynb)
 
 ### 9. Putting it Together: An Experiment
 - [Planning and Structuring the Experiment]
