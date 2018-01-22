@@ -52,8 +52,8 @@ Feedback and recommendations for improvement are always welcome.
 - [Instruction Presentation](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter8/InstructionPresentation.ipynb)
 
 ### 9. Putting it Together: An Experiment
-- [Planning and Structuring the Experiment]
-- [Programming the Experiment]
+- [Planning and Structuring the Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter9/PlanExp.ipynb)
+- [Programming the Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter9/ProgramExp.ipynb)
 
 ### 10. Object Oriented Programming
 - [Modules and Classes]
@@ -74,7 +74,7 @@ Each lab exercise corresponds to the contents of one chapter.
 | [Lab 4](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab4/Lab4.ipynb)         | [Lab 4 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab4Solution.ipynb) |
 | [Lab 5](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab5/Lab5.ipynb)        | [Lab 5 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab5Solution.ipynb) |
 | [Lab 6](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab6/Lab6.ipynb)          | [Lab 6 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab6Solution.ipynb) |
-| [Lab 7](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab7/Lab7.ipynb)       | Lab 7 Solution |
+| [Lab 7](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab7/Lab7.ipynb)       | [Lab 7 Solution](https://github.com/imarevic/PsyPythonCourse/blob/master/labsolutions/Lab7Solution.ipynb) |
 | [Lab 8](https://github.com/imarevic/PsyPythonCourse/blob/master/labs/Lab8/Lab8.ipynb)         | Lab 8 Solution |
 | Lab 9        | Lab 9 Solution |
 | Lab 10        | Lab 10 Solution |
