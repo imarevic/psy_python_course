@@ -1,0 +1,11 @@
+Your task will be to press one of the following
+keys depending on a combination of the word and its color:
+
+Press the F-KEY whenever the word meaning and color match
+PRESS the J-Key whenever the word meaning and color do not match.
+
+Please try to respond as accurately and quickly as possible.
+As we are also interested in how fast you respond, we will
+record your reaction time.
+
+Continue with RETURN.

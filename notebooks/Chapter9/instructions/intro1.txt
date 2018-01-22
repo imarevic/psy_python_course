@@ -1,0 +1,13 @@
+In the following you will be presented with
+words of colors. These words will be presented
+in different font colors. For example, you will
+see the word "red" in RED COLOR, or you will
+see the word "red" in BLUE COLOR.
+
+So sometimes the color of the word will match the meaning
+of the word and at other times it will not.
+
+For simplicity, you will only encounter the
+word colors RED and BLUE.
+
+Continue with RETURN.
