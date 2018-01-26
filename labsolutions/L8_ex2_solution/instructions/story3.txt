@@ -1,0 +1,3 @@
+END OF BORING STORY!!!
+
+Exit program by pressing the q-key.

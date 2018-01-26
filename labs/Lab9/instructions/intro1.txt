@@ -1,0 +1,12 @@
+In the following you will be presented with
+circles. These circles will be presented in
+the color GREEN or RED.
+
+Whenever you see a GREEN circle, please press the
+space bar as fast as possible.
+
+When you see a RED circle, your task is to
+withhold your response and NOT press the
+space bar.
+
+Continue with RETURN.
