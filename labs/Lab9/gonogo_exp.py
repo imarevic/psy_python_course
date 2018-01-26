@@ -47,7 +47,7 @@ def run_experiment():
 # === define helper functions that are called inside run_experiment() === #
 
 # implement this function
-# it should ask for demographics input and stor it in
+# it should ask for demographics input and store it in
 # the results dict accordingly
 # START CODE HERE #
 def demographics_input():
@@ -399,7 +399,7 @@ def prepare_color(stimulus):
     """prepares color to be displayed."""
 
     pass
-
+# END CODE HERE #
 
 # implement a function that gets a duration as Parameters
 # this function should present a circle of color settings["stimcolor"] until
