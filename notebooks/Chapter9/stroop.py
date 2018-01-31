@@ -11,7 +11,7 @@ import TextPresenter
 from config import *
 
 
-# ===  define procedures that run the experiment === #
+# ===  define procedure that runs the experiment === #
 def run_experiment():
     """runs the experiment."""
 
@@ -106,7 +106,7 @@ def init_pygame_and_exp():
     settings["filename"] = results["id"][0] + \
                           "_stroop_data_" + \
                           datetime.now().strftime('%Y-%m-%d-%H-%M-%S') + \
-                          '.txt'
+                          '.csv'
 
     # get all relevant paths
     settings["absPath"] = os.path.abspath(os.curdir)
@@ -487,7 +487,7 @@ def draw_isi(duration):
     # while loop for drawing ISI
     while (pygame.time.get_ticks() / 1000) - startTime < duration:
 
-        # just flip emoty screen to foreground
+        # just flip empty screen to foreground
         pygame.display.flip()
 
         # process event in isi
@@ -501,7 +501,7 @@ def save_results(filename, resultsdict):
     arg2: dictionary holding resultsdict
     """
     # open data file
-    with open(settings["dataPath"] + filename, 'w', newline="") as file:
+    with open(os.path.join(settings["dataPath"], filename), 'w', newline="") as file:
         # create csv writer
         w = csv.writer(file, delimiter=';')
         # write first row (variable labels)
