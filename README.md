@@ -56,7 +56,7 @@ Feedback and recommendations for improvement are always welcome.
 - [Programming the Experiment](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter9/ProgramExp.ipynb)
 
 ### 10. Object Oriented Programming
-- [Modules and Classes]
+- [Modules and Classes](https://github.com/imarevic/PsyPythonCourse/blob/master/notebooks/Chapter10/ModulesClasses.ipynb)
 - [Creating an Experiment Settings Class]
 - [The Experiment and Main Class]
 
