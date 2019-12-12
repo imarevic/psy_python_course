@@ -1,0 +1,11 @@
+GREEN circles are considered GO-trials, as you are asked
+to perform an action (e.g. pressing SPACE bar)
+
+RED circles are considered STOP-trials, as you are asked
+to withhold your response (e.g. not press SPACE bar)
+
+Please try to respond as accurately and quickly as possible.
+As we are also interested in how fast you respond
+on the GO-trials, we will record your reaction time.
+
+Continue with RETURN.

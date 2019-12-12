@@ -1,0 +1,13 @@
+The study is now completed.
+
+Please remain seated until the lab assistant
+closes the program.
+
+We thank you for your participation and for
+pushing science to the next level.
+
+Goodbye
+
+
+Note for LA:
+exit program with q-key!
