@@ -1,3 +1,6 @@
+# task: create an Experiment class that holds
+# all experimeent logic
+# Instantiate the Settings class here and use it instead of the settings dictionary
 # === import modules === #
 import pygame
 from datetime import datetime

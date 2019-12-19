@@ -1,3 +1,5 @@
+# task: create a Settings class and adopt this module accordingly
+# keep in mind to move relevant imports here as wel
 # import ordered dict
 from collections import OrderedDict
 
